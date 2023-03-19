@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="350px" height="395px" viewBox="0 0 350 395" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L350 0L350 395L0 395L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="textbubl2e" clip-path="url(#clip_1)">
+    <path d="M0 0L350 0L350 395L0 395L0 0Z" id="textbubl2e" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M30.7 1.10001C15.7 4.60001 3.40001 18.3 0.90001 34.1C0.30001 38.2 1.01477e-05 91.2 0.20001 179L0.50001 317.5L3.00001 323.4C6.40001 331.8 15.3 341.1 23.9 345.3L30.5 348.5L149.4 348.8C252.3 349 268.2 348.8 267.7 347.6C266.3 343.9 258 314.7 258.3 314.4C258.4 314.2 269.1 323.8 282 335.7C305.1 356.9 348.4 395 349.4 395C350.5 395 350 38.5 349 33C346.5 20 338.3 9.39999 326.2 3.69998L319.5 0.5L177 0.299988C96.4 0.299988 32.9 0.600006 30.7 1.10001L30.7 1.10001Z" id="Group" fill="#FFFFFF" stroke="none" />
+  </g>
+</svg>
